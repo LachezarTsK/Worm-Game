@@ -1,6 +1,6 @@
 Here is the complete program code for Worm Game, Exercise 49, Helsinki University's MOOC on Object Oriented Programming. 
 The explanations throughout the code might seem too detailed but they are addressed to the learner, not the professional developer.
-The structure of the program is not exactly like that proposed in the exercise of the course but the result is the same and there are some additonal features. 
+The structure of the program is not exactly like that proposed in the exercise of the course but the result is the same and there are some additonal features not required by the exercise. 
 The program has the following logic:
 
  - The worm moves automatically across the board and its speed accelerates with every eaten apple.
